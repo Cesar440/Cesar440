@@ -3636,7 +3636,7 @@ and I have mine, which always shows all the points with the same color of the ic
 </kml>
 Can someone help me and send me the correct code and show me where my error is, and how to put the colors to each point with its corresponding folder. I would thank you a lot.
 
-
+thank you 
 
 
 
